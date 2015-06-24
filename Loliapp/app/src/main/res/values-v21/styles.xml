@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="AppTheme" parent="android:Theme.Material.Light.DarkActionBar">
+
+        <item name="android:colorPrimaryDark">@color/prymari_color</item>
+        <item name="android:colorPrimary">@color/prymari</item>
+        <item name="android:colorAccent">@color/Accent</item>
+
+    </style>
+
+    <color name="prymari_color">#311B92</color>
+    <color name="prymari">#3F51F5</color>
+    <color name="Accent">#FF3D00</color>
+    <color name="textcolor">#FFFFFF</color>
+
+</resources>
